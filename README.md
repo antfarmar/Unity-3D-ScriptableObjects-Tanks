@@ -1,5 +1,5 @@
 # ScriptableObjects vs. Monobehaviours
-### Implementation Study: Tanks! Game Demo
+### Implementation Study: Tanks! Game Improvement Demo
 
 Implementation of Unity's Richard Fine's talk at Unite 2016:
 
