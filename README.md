@@ -13,6 +13,6 @@ Every Unity programmer is familiar with the `MonoBehaviour` class, but many over
 
 
 ### Rebuttal
-Things have changed in the prefab world. `Prefabs` are now more powerful than the `ScriptableObject`.
+Things have changed in the prefab world. `Prefabs` are now more powerful than the `ScriptableObject`. Everything `ScriptableObjects` used to be good for, `MonoBehaviours` can do... and can unlock much more powerful patterns than `ScriptableObjects` tend to allow.
 
 [Blog Post](http://projectperko.blogspot.ca/2016/07/scriptableobject.html) by Craig Perko
